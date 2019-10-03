@@ -1,0 +1,8 @@
+Jupyter
+pandas
+numpy
+seaborn==0.9.0
+scipy
+scikit-learn
+keras==2.2.4
+tensorflow==1.13.1
