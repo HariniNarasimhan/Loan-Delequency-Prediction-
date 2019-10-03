@@ -28,7 +28,8 @@ As we are in need of finding the delequency of a particual loan , it is a classi
 
 **Correlation plot of preprocessed data**
 ![](images/correlation_plot.png)
-** Correlation plot of only selected features**
+
+**Correlation plot of only selected features**
 ![](images/correlation_plot_features.png)
 
 **Step:3**
