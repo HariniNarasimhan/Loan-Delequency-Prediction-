@@ -10,6 +10,7 @@ https://datahack.analyticsvidhya.com/contest/india-ml-hiring-hackathon-2019/
 2. Predict as delequent or non-delequent (1, 0)
 
 #### Preprocessing and Feature Engineering:
+
 **Step:1**
 1. Converting all categorical columns to numericals :(source, financial_institution,loan_purpose)
 2. Converting dates to Date_Time format and extracting
@@ -62,6 +63,7 @@ Test data - 35866 data with 23 features each
     - The GRU has an advantage of storing the previous sequnce 
     - Overcomes vanishing gradient problem - i.e., The backpropagation will give importance to initial data in sequence as well
     - Works as efficient as LSTM also with less parameters
+
 **Model**:
 
 - The model has a GRU with 32 cells, Dense of 10, and then final Dense for 2 classes
